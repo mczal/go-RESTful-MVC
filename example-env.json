@@ -1,0 +1,4 @@
+{
+    "secret": "MY_SUPER_SECRET",
+    "port": "8080"
+}
